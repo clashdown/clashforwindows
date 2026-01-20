@@ -19,15 +19,15 @@ clash for windows可用机场，优信云、小旋风、尔湾云、TNTCloud、�
 
 | **套餐** | **月流量** | **在线设备数** | **价格** |                           **购买**                           |
 | :------: | :--------: | :------------: | :------: | :----------------------------------------------------------: |
-| 休闲款套餐 |   50 GB    |      2      | 15元/月  | [注册购买](https://www.youxincloud.net/#/register?code=JRtE5uIV) |
-| 运动款套餐 |   100 GB   |      3      | 20元/月  | [注册购买](https://www.youxincloud.net/#/register?code=JRtE5uIV) |
-| 商务款套餐 |   200 GB   |      4     | 30元/月  | [注册购买](https://www.youxincloud.net/#/register?code=JRtE5uIV) |
-| 专业款套餐 |   350 GB   |      6      | 40元/月  | [注册购买](https://www.youxincloud.net/#/register?code=JRtE5uIV) |
-| 旗舰款套餐-大流量 |  600 GB   |      6      | 50元/月 | [注册购买](https://www.youxincloud.net/#/register?code=JRtE5uIV) |
+| 休闲款套餐 |   50 GB    |      2      | 15元/月  | [注册购买](https://c.jichangs.com/youxinyun) |
+| 运动款套餐 |   100 GB   |      3      | 20元/月  | [注册购买](https://c.jichangs.com/youxinyun) |
+| 商务款套餐 |   200 GB   |      4     | 30元/月  | [注册购买](https://c.jichangs.com/youxinyun) |
+| 专业款套餐 |   350 GB   |      6      | 40元/月  | [注册购买](https://c.jichangs.com/youxinyun) |
+| 旗舰款套餐-大流量 |  600 GB   |      6      | 50元/月 | [注册购买](https://c.jichangs.com/youxinyun) |
 
 ### 优信云优惠码
 
-注册链接：[https://www.youxincloud.net/#/register?code=JRtE5uIV](https://www.youxincloud.net/#/register?code=JRtE5uIV)
+注册链接：[优信云官网](https://c.jichangs.com/youxinyun)
 
 ## 尔湾云
 
@@ -50,14 +50,14 @@ clash for windows可用机场，优信云、小旋风、尔湾云、TNTCloud、�
 
 | **套餐**  | **月流量** | **在线设备数** | **峰值速率** |  **价格**  |                         **购买**                         |
 | :-------: | :--------: | :------------: | :----------: | :--------: | :------------------------------------------------------: |
-|  入门版   |   50 GB    |       2        |   50 Mbps    | 11.99元/月 | [注册购买](https://erwan6.net/auth/register?code=BoObCd) |
-|  基础版   |   100 GB   |       2        |   50 Mbps    | 16.99元/月 | [注册购买](https://erwan6.net/auth/register?code=BoObCd) |
-|  标准版   |   200 GB   |       3        |   140 Mbps   | 26.99元/月 | [注册购买](https://erwan6.net/auth/register?code=BoObCd) |
-|  高级版   |   350 GB   |       5        |   270 Mbps   | 36.99元/月 | [注册购买](https://erwan6.net/auth/register?code=BoObCd) |
-|  旗舰版   |   600 GB   |       8        |   500 Mbps   | 59.99元/月 | [注册购买](https://erwan6.net/auth/register?code=BoObCd) |
-| 旗舰版Max |  1200 GB   |       10       |   500 Mbps   | 99.99元/月 | [注册购买](https://erwan6.net/auth/register?code=BoObCd) |
+|  入门版   |   50 GB    |       2        |   50 Mbps    | 11.99元/月 | [注册购买](https://c.jichangs.com/erwan) |
+|  基础版   |   100 GB   |       2        |   50 Mbps    | 16.99元/月 | [注册购买](https://c.jichangs.com/erwan) |
+|  标准版   |   200 GB   |       3        |   140 Mbps   | 26.99元/月 | [注册购买](https://c.jichangs.com/erwan) |
+|  高级版   |   350 GB   |       5        |   270 Mbps   | 36.99元/月 | [注册购买](https://c.jichangs.com/erwan) |
+|  旗舰版   |   600 GB   |       8        |   500 Mbps   | 59.99元/月 | [注册购买](https://c.jichangs.com/erwan) |
+| 旗舰版Max |  1200 GB   |       10       |   500 Mbps   | 99.99元/月 | [注册购买](https://c.jichangs.com/erwan) |
 
-注册链接：：[https://erwan6.net/auth/register?code=BoObCd](https://erwan6.net/auth/register?code=BoObCd)
+注册链接：：[尔湾云官网](https://c.jichangs.com/erwan)
 
 ## 小旋风
 
@@ -78,15 +78,15 @@ clash for windows可用机场，优信云、小旋风、尔湾云、TNTCloud、�
 
 | **套餐** | **月流量** | **在线设备数** | **价格** |                           **购买**                           |
 | :------: | :--------: | :------------: | :------: | :----------------------------------------------------------: |
-| 轻量年付 |   60 GB    |      不限      | 96元/年  | [注册购买](https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772) |
-| 普通套餐 |   110 GB   |      不限      | 20元/月  | [注册购买](https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772) |
-| 高级套餐 |   220 GB   |      不限      | 40元/月  | [注册购买](https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772) |
-| 专业套餐 |   440 GB   |      不限      | 80元/月  | [注册购买](https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772) |
-| 企业套餐 |  1200 GB   |      不限      | 200元/月 | [注册购买](https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772) |
+| 轻量年付 |   60 GB    |      不限      | 96元/年  | [注册购买](https://c.jichangs.com/xxf) |
+| 普通套餐 |   110 GB   |      不限      | 20元/月  | [注册购买](https://c.jichangs.com/xxf) |
+| 高级套餐 |   220 GB   |      不限      | 40元/月  | [注册购买](https://c.jichangs.com/xxf) |
+| 专业套餐 |   440 GB   |      不限      | 80元/月  | [注册购买](https://c.jichangs.com/xxf) |
+| 企业套餐 |  1200 GB   |      不限      | 200元/月 | [注册购买](https://c.jichangs.com/xxf) |
 
 ### 小旋风优惠码
 
-注册链接：[https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772](https://cinb01.xxfaff.cc/#/register?inviteCode=80C209ADC772)
+注册链接：[小旋风官网](https://c.jichangs.com/xxf)
 
 ## TNTCloud
 
@@ -111,12 +111,12 @@ TNTCloud 机场是一家专业的高端专线机场旗下的新开高端专线�
 
 |  **套餐** | **月付**  | **季付** |   **半年付** | **年付**  | **购买** |
 | :------: | :--------: | :------------: | :-------: | :-------: | :----------------------------------------------------------: |
-| TNTVIP1 | 110g ¥20.00 | ¥54.00 | ¥102.00 | ¥192.00  | [注册购买](https://www.tntyun.cc/#/register?code=GtjJVgml) |
-| TNTVIP2 | 220g ¥40.00 | ¥108.00 | ¥204.00 | ¥336.00  | [注册购买](https://www.tntyun.cc/#/register?code=GtjJVgml) |
-| TNTVIP3 | 460g ¥80.00 | ¥216.00 | ¥408.00 | ¥768.00  | [注册购买](https://www.tntyun.cc/#/register?code=GtjJVgml) |
-| TNTVIP4 | 1100g ¥160.00 | ¥432.00 | ¥816.00 | ¥1536.00  | [注册购买](https://www.tntyun.cc/#/register?code=GtjJVgml) |
+| TNTVIP1 | 110g ¥20.00 | ¥54.00 | ¥102.00 | ¥192.00  | [注册购买](https://c.jichangs.com/tnt) |
+| TNTVIP2 | 220g ¥40.00 | ¥108.00 | ¥204.00 | ¥336.00  | [注册购买](https://c.jichangs.com/tnt) |
+| TNTVIP3 | 460g ¥80.00 | ¥216.00 | ¥408.00 | ¥768.00  | [注册购买](https://c.jichangs.com/tnt) |
+| TNTVIP4 | 1100g ¥160.00 | ¥432.00 | ¥816.00 | ¥1536.00  | [注册购买](https://c.jichangs.com/tnt) |
 
-注册链接：[https://www.tntyun.cc/#/register?code=GtjJVgml](https://www.tntyun.cc/#/register?code=GtjJVgml)
+注册链接：[TNT官网](https://c.jichangs.com/tnt)
  
 ## 大哥云
 
@@ -138,14 +138,14 @@ TNTCloud 机场是一家专业的高端专线机场旗下的新开高端专线�
 
 |  **套餐**  | **月流量** | **在线设备数** | **价格**  |                          **购买**                          |
 | :--------: | :--------: | :------------: | :-------: | :--------------------------------------------------------: |
-| 小流量年付 |   15 GB    |      不限      |  88元/年  | [注册购买](https://dgy.dgywzc.com/#register?code=JSSN0WQ9) |
-| 单月套餐A  |   100 GB   |      不限      | 19.9元/月 | [注册购买](https://dgy.dgywzc.com/#register?code=JSSN0WQ9) |
-| 单月套餐B  |   150 GB   |      不限      | 29.9元/月 | [注册购买](https://dgy.dgywzc.com/#register?code=JSSN0WQ9) |
-| 季付套餐A  |   200 GB   |      不限      | 69元/季度 | [注册购买](https://dgy.dgywzc.com/#register?code=JSSN0WQ9) |
-| 年付套餐A  |   300 GB   |      不限      | 199元/年  | [注册购买](https://dgy.dgywzc.com/#register?code=JSSN0WQ9) |
-| 年付套餐B  |   500 GB   |      不限      | 299元/年  | [注册购买](https://dgy.dgywzc.com/#register?code=JSSN0WQ9) |
+| 小流量年付 |   15 GB    |      不限      |  88元/年  | [注册购买](https://c.jichangs.com/dage) |
+| 单月套餐A  |   100 GB   |      不限      | 19.9元/月 | [注册购买](https://c.jichangs.com/dage) |
+| 单月套餐B  |   150 GB   |      不限      | 29.9元/月 | [注册购买](https://c.jichangs.com/dage) |
+| 季付套餐A  |   200 GB   |      不限      | 69元/季度 | [注册购买](https://c.jichangs.com/dage) |
+| 年付套餐A  |   300 GB   |      不限      | 199元/年  | [注册购买](https://c.jichangs.com/dage) |
+| 年付套餐B  |   500 GB   |      不限      | 299元/年  | [注册购买](https://c.jichangs.com/dage) |
 
-注册链接：[https://dgy.dgywzc.com/#register?code=JSSN0WQ9](https://dgy.dgywzc.com/#register?code=JSSN0WQ9)
+注册链接：[大哥云官网](https://c.jichangs.com/dage)
 
 ## 肥猫云
 
@@ -167,12 +167,12 @@ TNTCloud 机场是一家专业的高端专线机场旗下的新开高端专线�
 
 | **套餐** | **月流量** | **在线设备数** | **价格** |                           **购买**                           |
 | :------: | :--------: | :------------: | :------: | :----------------------------------------------------------: |
-| 肥猫小包 |   60 GB    |      不限      | 72元/年  | [注册购买](https://inv01.fatcatcloud.cc/register?aff=X1vZd2wf) |
-|  基础版  |   200 GB   |      不限      | 20元/月  | [注册购买](https://inv01.fatcatcloud.cc/register?aff=X1vZd2wf) |
-|  标准版  |   400 GB   |      不限      | 40元/月  | [注册购买](https://inv01.fatcatcloud.cc/register?aff=X1vZd2wf) |
-|  旗舰版  |  1000 GB   |      不限      | 100元/月 | [注册购买](https://inv01.fatcatcloud.cc/register?aff=X1vZd2wf) |
+| 肥猫小包 |   60 GB    |      不限      | 72元/年  | [注册购买](https://c.jichangs.com/feimao) |
+|  基础版  |   200 GB   |      不限      | 20元/月  | [注册购买](https://c.jichangs.com/feimao) |
+|  标准版  |   400 GB   |      不限      | 40元/月  | [注册购买](https://c.jichangs.com/feimao) |
+|  旗舰版  |  1000 GB   |      不限      | 100元/月 | [注册购买](https://c.jichangs.com/feimao) |
 
-注册链接：[https://inv01.fatcatcloud.cc/register?aff=X1vZd2wf](https://inv01.fatcatcloud.cc/register?aff=X1vZd2wf)
+注册链接：[肥猫云官网](https://c.jichangs.com/feimao)
 
 ## 疾风云
 
@@ -192,14 +192,14 @@ TNTCloud 机场是一家专业的高端专线机场旗下的新开高端专线�
 
 |   **套餐**   | **月流量** | **在线设备数** | **价格**  |                  **购买**                   |
 | :----------: | :--------: | :------------: | :-------: | :-----------------------------------------: |
-|    入门版    |   50 GB    |       1        | 11.9元/月 | [注册购买](https://homes.tr25.cn?code=ReCm) |
-|    基础版    |   100 GB   |       2        | 16.9元/月 | [注册购买](https://homes.tr25.cn?code=ReCm) |
-|    标准版    |   200 GB   |       3        | 26.9元/月 | [注册购买](https://homes.tr25.cn?code=ReCm) |
-|    高级版    |   350 GB   |       5        | 36.9元/月 | [注册购买](https://homes.tr25.cn?code=ReCm) |
-|    旗舰版    |   600 GB   |       8        | 50.9元/月 | [注册购买](https://homes.tr25.cn?code=ReCm) |
-| 旗舰版大流量 |  1200 GB   |       10       | 96.9元/月 | [注册购买](https://homes.tr25.cn?code=ReCm) |
+|    入门版    |   50 GB    |       1        | 11.9元/月 | [注册购买](https://c.jichangs.com/jifeng) |
+|    基础版    |   100 GB   |       2        | 16.9元/月 | [注册购买](https://c.jichangs.com/jifeng) |
+|    标准版    |   200 GB   |       3        | 26.9元/月 | [注册购买](https://c.jichangs.com/jifeng) |
+|    高级版    |   350 GB   |       5        | 36.9元/月 | [注册购买](https://c.jichangs.com/jifeng) |
+|    旗舰版    |   600 GB   |       8        | 50.9元/月 | [注册购买](https://c.jichangs.com/jifeng) |
+| 旗舰版大流量 |  1200 GB   |       10       | 96.9元/月 | [注册购买](https://c.jichangs.com/jifeng) |
 
-注册链接：[https://homes.tr25.cn?code=ReCm](https://homes.tr25.cn?code=ReCm)
+注册链接：[疾风云官网](https://c.jichangs.com/jifeng)
 
 ## 龙猫云
 
@@ -221,13 +221,13 @@ TNTCloud 机场是一家专业的高端专线机场旗下的新开高端专线�
 
 |  **套餐**   | **月流量** | **在线设备数** | **价格** |                          **购买**                          |
 | :---------: | :--------: | :------------: | :------: | :--------------------------------------------------------: |
-|  VIP1套餐   |   100 GB   |      不限      | 15元/月  | [注册购买](https://inv02.lmaff01.cc/register?aff=n3wi2NwS) |
-|  VIP2套餐   |   200 GB   |      不限      | 30元/月  | [注册购买](https://inv02.lmaff01.cc/register?aff=n3wi2NwS) |
-|  VIP3套餐   |   400 GB   |      不限      | 60元/月  | [注册购买](https://inv02.lmaff01.cc/register?aff=n3wi2NwS) |
-|  VIP4套餐   |  1000 GB   |      不限      | 120元/月 | [注册购买](https://inv02.lmaff01.cc/register?aff=n3wi2NwS) |
-| DIY定制套餐 |    定制    |      不限      | 680元/月 | [注册购买](https://inv02.lmaff01.cc/register?aff=n3wi2NwS) |
+|  VIP1套餐   |   100 GB   |      不限      | 15元/月  | [注册购买](https://c.jichangs.com/longmao) |
+|  VIP2套餐   |   200 GB   |      不限      | 30元/月  | [注册购买](https://c.jichangs.com/longmao) |
+|  VIP3套餐   |   400 GB   |      不限      | 60元/月  | [注册购买](https://c.jichangs.com/longmao) |
+|  VIP4套餐   |  1000 GB   |      不限      | 120元/月 | [注册购买](https://c.jichangs.com/longmao) |
+| DIY定制套餐 |    定制    |      不限      | 680元/月 | [注册购买](https://c.jichangs.com/longmao) |
 
-注册链接：[https://inv02.lmaff01.cc/register?aff=n3wi2NwS](https://inv02.lmaff01.cc/register?aff=n3wi2NwS)
+注册链接：[龙猫云官网](https://c.jichangs.com/longmao)
 
 ## 速云梯
 
@@ -249,13 +249,13 @@ TNTCloud 机场是一家专业的高端专线机场旗下的新开高端专线�
 
 |   **套餐**   | **月流量** | **在线设备数** |  **价格**  |                          **购买**                          |
 | :----------: | :--------: | :------------: | :--------: | :--------------------------------------------------------: |
-|    入门版    |   100 GB   |       2        | 19.99元/月 | [注册购买](https://suyunti981.xyz/auth/register?code=37Wm) |
-|    基础版    |   200 GB   |       3        | 29.99元/月 | [注册购买](https://suyunti981.xyz/auth/register?code=37Wm) |
-|    标准版    |   350 GB   |       5        | 39.99元/月 | [注册购买](https://suyunti981.xyz/auth/register?code=37Wm) |
-|    旗舰版    |   600 GB   |       8        | 59.99元/月 | [注册购买](https://suyunti981.xyz/auth/register?code=37Wm) |
-| 旗舰版大流量 |  1200 GB   |       10       | 99.99元/月 | [注册购买](https://suyunti981.xyz/auth/register?code=37Wm) |
+|    入门版    |   100 GB   |       2        | 19.99元/月 | [注册购买]https://c.jichangs.com/suyunti) |
+|    基础版    |   200 GB   |       3        | 29.99元/月 | [注册购买]https://c.jichangs.com/suyunti) |
+|    标准版    |   350 GB   |       5        | 39.99元/月 | [注册购买]https://c.jichangs.com/suyunti) |
+|    旗舰版    |   600 GB   |       8        | 59.99元/月 | [注册购买]https://c.jichangs.com/suyunti) |
+| 旗舰版大流量 |  1200 GB   |       10       | 99.99元/月 | [注册购买]https://c.jichangs.com/suyunti) |
 
-注册链接：[https://suyunti981.xyz/auth/register?code=37Wm](https://suyunti981.xyz/auth/register?code=37Wm)
+注册链接：[速云梯官网]https://c.jichangs.com/suyunti)
 
 ```
 其他地址（需翻墙打开）
@@ -308,11 +308,11 @@ TNTCloud 机场是一家专业的高端专线机场旗下的新开高端专线�
 
 | **套餐** | **月流量** | **在线设备数** | **价格**  |                           **购买**                           |
 | :------: | :--------: | :------------: | :-------: | :----------------------------------------------------------: |
-|  筑基期  |   100 GB   |      不限      | 15.9元/月 | [注册购买](https://3fan.3f66.net:/#/login?code=NuDD6seh&setup=1) |
-|  元婴期  |   200 GB   |      不限      | 26.9元/月 | [注册购买](https://3fan.3f66.net:/#/login?code=NuDD6seh&setup=1) |
-|  化神期  |   300 GB   |      不限      | 36.9元/月 | [注册购买](https://3fan.3f66.net:/#/login?code=NuDD6seh&setup=1) |
-|  炼虚期  |   600 GB   |      不限      | 50.9元/月 | [注册购买](https://3fan.3f66.net:/#/login?code=NuDD6seh&setup=1) |
-|  大乘期  |  1200 GB   |      不限      | 96.9元/月 | [注册购买](https://3fan.3f66.net:/#/login?code=NuDD6seh&setup=1) |
-| 陆地神仙 |  10000 GB  |      不限      | 500元/月  | [注册购买](https://3fan.3f66.net:/#/login?code=NuDD6seh&setup=1) |
+|  筑基期  |   100 GB   |      不限      | 15.9元/月 | [注册购买](https://c.jichangs.com/3fan) |
+|  元婴期  |   200 GB   |      不限      | 26.9元/月 | [注册购买](https://c.jichangs.com/3fan) |
+|  化神期  |   300 GB   |      不限      | 36.9元/月 | [注册购买](https://c.jichangs.com/3fan) |
+|  炼虚期  |   600 GB   |      不限      | 50.9元/月 | [注册购买](https://c.jichangs.com/3fan) |
+|  大乘期  |  1200 GB   |      不限      | 96.9元/月 | [注册购买](https://c.jichangs.com/3fan) |
+| 陆地神仙 |  10000 GB  |      不限      | 500元/月  | [注册购买](https://c.jichangs.com/3fan) |
 
-注册链接：[https://3fan.3f66.net:/#/login?code=NuDD6seh&setup=1](https://3fan.3f66.net:/#/login?code=NuDD6seh&setup=1)
+注册链接：[三番云官网](https://c.jichangs.com/3fan)
